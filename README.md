@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himal Gole.
 - 👀 I’m interested in web designing and development.
-- 🌱 I’m currently studying computer engineering.
+- 🌱 I graduated Computer engineering.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 mail me at himalgole1122@gmail.com
 
