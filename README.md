@@ -1,4 +1,4 @@
-# 🌟 Himal Gole | Web Alchemist & AI Enthusiast
+# Himal Gole | Web Alchemist & AI Enthusiast
 
 [![GitHub](https://img.shields.io/github/followers/username?style=social)](https://github.com/himalgole)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/himal-gole-b02182244/)
