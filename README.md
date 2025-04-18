@@ -14,6 +14,7 @@ Hi! I'm **Himal Gole**, a full-stack web developer passionate about building AI-
 - 🤖 Focus on practical AI implementations
 - 🌐 Open-source advocate
 
+**#introvert** **#optimist** **90s Kid**
 ---
 
 ## 🛠 Technical Skills
