@@ -55,9 +55,10 @@ Hi! I'm **Himal Gole**, a full-stack web developer passionate about building AI-
 ---
 
 ## 📚 Education
-- **Computer engineering** | IOE
+- **Bachelor's degree in computer engineering** | IOE
 
 ---
 
 ## 📬 Let's Connect!
 - 💌 Email: **himalgole1122@gmail.com**
+- 📱 Mobile: **+977-9818813635**
